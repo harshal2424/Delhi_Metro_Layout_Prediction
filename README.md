@@ -115,6 +115,7 @@ The model successfully overcame bias, resulting in accurate prediction across al
 ---
 
 ## 🗂 Project Structure
+```
 ├── data/
 │   └── Delhi metro.csv
 ├── notebooks/
@@ -122,7 +123,7 @@ The model successfully overcame bias, resulting in accurate prediction across al
 ├── images/
 │   └── confusion_matrix.png
 └── README.md
-
+```
 
 ---
 
